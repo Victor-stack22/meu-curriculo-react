@@ -26,7 +26,7 @@ function Experience() {
         },
         {
             cargo: "Motorista de aplicativos",
-            empresa: "Autônome (Uber / 99)",
+            empresa: "Autônomo (Uber / 99)",
             pediodo: "2021 - Presente",
             descricao: "Condução de passageiros"
         }

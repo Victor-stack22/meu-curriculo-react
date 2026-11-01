@@ -1,6 +1,7 @@
 import Header from "./Header";
 import Skills from "./Skills";
 import Experience from "./Experience";
+import "./App.css";
 
 // No React, funções que retornam visual são chamadas de Componentes.
 // O nome do componente DEVE começar com letra maiúscula (App).
@@ -8,15 +9,10 @@ function App() {
 
   // O bloco 'return' é onde colocamos o JSX (o que vai virar HTML na tela)
   return (
-    <div>
+    <div className="portfolio-container">
       <Header />
       <Skills />
       <Experience/>
-
-      <main>
-        <h2>Sobre Mim</h2>
-        <p>Estou em busca da minha primeira oportunidade na área de desenvolvimento Front-end</p>
-      </main>
     </div>
   );
 }
