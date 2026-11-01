@@ -6,3 +6,69 @@
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
 }
+
+/* ESTILOS DO HEADER */
+.header-section {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 25px;
+  border-bottom: 2px solid #f0f2f1;
+}
+
+.header-title {
+  font-size: 2.2rem;
+  color: #1a202c; /* Um tom azul escuro quase preto */
+  margin-bottom: 8px;
+}
+
+.header-contact {
+  font-size: 0.95rem;
+  margin-bottom: 15px;
+}
+
+.header-contact a {
+  color: #3182ce; /* Azul padrão de links modernos */
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.header-contact a:hover {
+  text-decoration: underline;
+}
+
+.contact-divider {
+  margin: 0 10px;
+  color: #cbd5e0;
+}
+
+.header-bio {
+  font-size: 1rem;
+  color: #4a5568;
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+/* TÍTULOS DE SEÇÕES GLOBAIS */
+.section-title {
+  font-size: 1.4rem;
+  color: #2d3748;
+  margin: 30px 0 15px 0;
+}
+
+/* ESTILOS DAS SKILLS */
+.skills-list {
+  display: flex; /* Alinha os itens lado a lado em vez de um embaixo do outro */
+  flex-wrap: wrap; /* Se faltar espaço na tela do celular, quebra para a linha de baixo */
+  gap: 10px; /* Espaço entre as tags */
+  list-style: none; /* Remove a bolinha preta do <li> */
+  padding-bottom: 10px;
+}
+
+.skill-item {
+  background-color: #98dbff; /* Fundo azul clarinho */
+  color: #031527; /* Texto azul escuro para dar contraste */
+  padding: 6px 14px;
+  border-radius: 20px; /* Deixa as bordas totalmente arredondadas (estilo pílula) */
+  font-size: 0.85rem;
+  font-weight: 600;
+}

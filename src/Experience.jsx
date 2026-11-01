@@ -3,31 +3,31 @@ function Experience() {
         {
             cargo: "Atendimento Telemarketing",
             empresa: "Contax",
-            pediodo: "2008 - 2011",
+            pediodo: "Período: 2008 - 2011",
             descricao: "Atendimento ao cliente e novos cadastros"
         },
         {
             cargo: "Analista Back Office",
             empresa: "Contax",
-            pediodo: "2011 - 2014",
+            pediodo: "Período: 2011 - 2014",
             descricao: "Atendimento e resolução de demandas internas - Análise e tratamento das ocorrências em faturamento - Suporte à equipe de SAC garantindo os prazos e qualidade."
         },
         {
             cargo: "Motorista e eletricista",
             empresa: "Rodo Passos",
-            pediodo: "2014 - 2015",
+            pediodo: "Período: 2014 - 2015",
             descricao: "Auxílio e Instalação de Medidores"
         },
         {
             cargo: "Motorista de coletivo",
             empresa: "Mauá",
-            pediodo: "2016 - 2021",
+            pediodo: "Período: 2016 - 2021",
             descricao: "Condução de passageiros"
         },
         {
             cargo: "Motorista de aplicativos",
             empresa: "Autônomo (Uber / 99)",
-            pediodo: "2021 - Presente",
+            pediodo: "Período: 2021 - Presente",
             descricao: "Condução de passageiros"
         }
     ];
