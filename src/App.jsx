@@ -1,4 +1,5 @@
 import Header from "./Header";
+import Skills from "./Skills";
 
 // No React, funções que retornam visual são chamadas de Componentes.
 // O nome do componente DEVE começar com letra maiúscula (App).
@@ -8,12 +9,10 @@ function App() {
   return (
     <div>
       <Header />
-
+      <Skills />
       <main>
         <h2>Sobre Mim</h2>
-        <p>Estou em busca da minha primeira oportunidade na área de desenvolvimento Front-end. Tenho conhecimento em HTML, CSS e Javascript.
-        Comecei a me aprofundar em REACT!
-        </p>
+        <p>Estou em busca da minha primeira oportunidade na área de desenvolvimento Front-end</p>
       </main>
     </div>
   );
