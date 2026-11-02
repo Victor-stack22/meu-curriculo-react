@@ -49,11 +49,11 @@
 }
 
 /* TÍTULOS DE SEÇÕES GLOBAIS */
-.section-title {
+/* .section-title {
   font-size: 1.4rem;
   color: #2d3748;
   margin: 30px 0 15px 0;
-}
+} */
 
 /* ESTILOS DAS SKILLS */
 .skills-list {
@@ -61,7 +61,6 @@
   flex-wrap: wrap; /* Se faltar espaço na tela do celular, quebra para a linha de baixo */
   gap: 10px; /* Espaço entre as tags */
   list-style: none; /* Remove a bolinha preta do <li> */
-  padding-bottom: 10px;
 }
 
 .skill-item {
