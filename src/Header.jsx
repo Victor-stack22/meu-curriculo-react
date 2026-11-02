@@ -6,7 +6,7 @@ function Header () {
             <div className="header-contact">
                 <span>📍 Itaboraí - RJ</span>
                 <span className="contact-divider">|</span>
-                <a href="www.linkedin.com/in/victor-pintassilgo-2b94a27b" target="_blank" rel="noreferrer">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/victor-pintassilgo-2b94a27b/" target="_blank" rel="noreferrer">LinkedIn</a>
                 <span className="contact-divider">|</span>
                 <a href="https://github.com/Victor-stack22" target="_blank" rel="noreferrer">GitHub</a>
             </div>
